@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eurekaclient-8762" />
+        <module name="eurekaclient-8763" />
+        <module name="eurekaserver" />
+        <module name="feignhystrix-8767" />
+        <module name="feignserver-8765" />
+        <module name="ribbonhystrix-8766" />
+        <module name="ribbonserver-8764" />
+        <module name="zuulserver-8768" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eurekaclient" target="1.8" />
+      <module name="eurekaclient-8762" target="1.8" />
+      <module name="eurekaclient-8763" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="feignhystrix-8767" target="1.8" />
+      <module name="feignserver-8765" target="1.8" />
+      <module name="microservicecloud" target="1.8" />
+      <module name="ribbonhystrix-8766" target="1.8" />
+      <module name="ribbonserver-8764" target="1.8" />
+      <module name="serverribbon" target="1.8" />
+      <module name="zuulserver-8768" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eurekaclient" options="-parameters" />
+      <module name="eurekaclient-8762" options="-parameters" />
+      <module name="eurekaclient-8763" options="-parameters" />
+      <module name="eurekaserver" options="-parameters" />
+      <module name="feignhystrix-8767" options="-parameters" />
+      <module name="feignserver-8765" options="-parameters" />
+      <module name="microservicecloud" options="-parameters" />
+      <module name="ribbonhystrix-8766" options="-parameters" />
+      <module name="ribbonserver-8764" options="-parameters" />
+      <module name="serverribbon" options="-parameters" />
+      <module name="zuulserver-8768" options="-parameters" />
+    </option>
+  </component>
+</project>

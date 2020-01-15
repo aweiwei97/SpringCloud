@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient-8762/eurekaclient-8762.iml" filepath="$PROJECT_DIR$/eurekaclient-8762/eurekaclient-8762.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient-8763/eurekaclient-8763.iml" filepath="$PROJECT_DIR$/eurekaclient-8763/eurekaclient-8763.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignhystrix-8767/feignhystrix-8767.iml" filepath="$PROJECT_DIR$/feignhystrix-8767/feignhystrix-8767.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feignserver-8765/feignserver-8765.iml" filepath="$PROJECT_DIR$/feignserver-8765/feignserver-8765.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonhystrix-8766/ribbonhystrix-8766.iml" filepath="$PROJECT_DIR$/ribbonhystrix-8766/ribbonhystrix-8766.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonserver-8764/ribbonserver-8764.iml" filepath="$PROJECT_DIR$/ribbonserver-8764/ribbonserver-8764.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulserver-8768/zuulserver-8768.iml" filepath="$PROJECT_DIR$/zuulserver-8768/zuulserver-8768.iml" />
+    </modules>
+  </component>
+</project>
